@@ -14,21 +14,21 @@ I’m a passionate **Data Scientist** focused on leveraging advanced analytics a
 
 ## 🛠️ Skills & Technologies
 
-### **Languages**  
+### **Languages** 🌐  
 - **Python**, **R**, **SQL**
 
-### **Libraries & Frameworks**  
+### **Libraries & Frameworks** 📚  
 - **Pandas**, **NumPy**, **scikit-learn**, **XGBoost**, **TensorFlow**, **Keras**  
 - **NLTK**, **spaCy** (NLP)  
 - **Matplotlib**, **Seaborn** (Visualization)
 
-### **Tools**  
-- **Jupyter Notebook**, **Streamlit**, **Git**, **Tableau**
+### **Tools** 🧰  
+- **Jupyter Notebook**, **Streamlit**, **Docker**, **Git**, **Tableau**
 
-### **Databases**  
+### **Databases** 🗃️  
 - **MySQL**, **MongoDB**, **Redis**
 
-### **Concepts**  
+### **Concepts** 💡  
 - **Machine Learning** (Supervised & Unsupervised)  
 - **NLP**, **Model Evaluation**, **Imbalanced Data Handling**
 
