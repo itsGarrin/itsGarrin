@@ -8,7 +8,7 @@
 
 ## 🔍 About Me  
 
-I’m a passionate **Data Scientist** focused on leveraging advanced analytics and machine learning to solve real-world problems. With a strong foundation in **finance** and **data science**, I’m excited about the opportunity to make a meaningful impact through data-driven solutions across various domains, including **sports analytics**, **personal finance**, and **predictive modeling**.
+I’m a passionate **Data Scientist** focused on leveraging advanced analytics and machine learning to solve real-world problems. With a strong foundation in **data science** and **finance**, I’m excited about the opportunity to make a meaningful impact through data-driven solutions across various domains, including **sports analytics**, **personal finance**, and **predictive modeling**.
 
 ---
 
@@ -55,7 +55,7 @@ A personalized **fantasy football assistant** that provides data-driven insights
   - Offers **personalized recommendations** for fantasy football strategies based on user preferences and real-time data.
  
 ### 💳 [Defaults Charge-Off Prediction](https://github.com/itsGarrin/defaults-charge-off-prediction)
-A machine learning project predicting credit card defaults and charge-offs using an imbalanced dataset. The project explores multiple models including **Logistic Regression**, **Random Forest**, and **XGBoost**, with a focus on techniques for handling imbalanced data.  
+A machine learning project predicting credit card defaults and charge-offs using an imbalanced dataset. The project explores multiple models including **Logistic Regression**, **Random Forest**, and **XGBoost**, focusing on techniques for handling imbalanced data.  
 
 - **Tech Used**: Python, Scikit-learn, XGBoost, Jupyter Notebook  
 - **Key Features**:  
