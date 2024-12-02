@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Garrin Shieh  
+# 👋 Hi, I’m Garrin Shieh.
 
 🎓 **Data Science & Finance Student** at **Northeastern University**
 
