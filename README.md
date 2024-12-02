@@ -54,7 +54,7 @@ A personalized **fantasy football assistant** that provides data-driven insights
   - **API integration** with NFL data to fetch real-time player statistics.  
   - Offers **personalized recommendations** for fantasy football strategies based on user preferences and real-time data.
  
-### 💳 [Defaults Charge-Off Prediction](https://github.com/itsGarrin/defaults-charge-off-prediction)
+### 💳 [Defaults & Charge-Off Prediction](https://github.com/itsGarrin/defaults-charge-off-prediction)
 A machine learning project predicting credit card defaults and charge-offs using an imbalanced dataset. The project explores multiple models including **Logistic Regression**, **Random Forest**, and **XGBoost**, focusing on techniques for handling imbalanced data.  
 
 - **Tech Used**: Python, Scikit-learn, XGBoost, Jupyter Notebook  
