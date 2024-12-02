@@ -12,12 +12,25 @@ I’m a passionate **Data Scientist** focused on leveraging advanced analytics a
 
 ---
 
-## 🛠️ Skills & Technologies  
+## 🛠️ Skills & Technologies
 
-| **Languages** | Python, R, SQL, Java, TypeScript, JavaScript |  
-| ------------- | ------------------------------------------- |  
-| **Libraries** | sklearn, NumPy, Pandas, TensorFlow, Redis   |  
-| **Tools**     | Git, MySQL, MongoDB, Tableau, NetSuite      |  
+### **Languages**  
+- **Python**, **R**, **SQL**
+
+### **Libraries & Frameworks**  
+- **Pandas**, **NumPy**, **scikit-learn**, **XGBoost**, **TensorFlow**, **Keras**  
+- **NLTK**, **spaCy** (NLP)  
+- **Matplotlib**, **Seaborn** (Visualization)
+
+### **Tools**  
+- **Jupyter Notebook**, **Streamlit**, **Git**, **Tableau**
+
+### **Databases**  
+- **MySQL**, **MongoDB**, **Redis**
+
+### **Concepts**  
+- **Machine Learning** (Supervised & Unsupervised)  
+- **NLP**, **Model Evaluation**, **Imbalanced Data Handling**
 
 ---
 
