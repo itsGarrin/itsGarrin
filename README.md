@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Garrin Shieh  
 
 🎓 **Data Science & Finance Student** at **Northeastern University**
+
 💼 **Incoming Data Scientist** | **Teaching Assistant** | **Project Enthusiast**  
 
 ---
