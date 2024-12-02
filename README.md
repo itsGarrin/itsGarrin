@@ -68,7 +68,7 @@ A machine learning project predicting credit card defaults and charge-offs using
 ## 📢 Let's Connect  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/garrins/)  
-📧 Email: garrin.shieh@gmail.com  
+📧 [Email](garrin.shieh@gmail.com) 
 💻 [GitHub](https://github.com/itsGarrin)  
 
 ---
