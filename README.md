@@ -45,7 +45,7 @@ A project leveraging **NLP** and regression models to predict commodities price 
   - Sentiment analysis for market prediction  
   - Model evaluation using regression metrics
 
-### 🏈 [Fantasy Football Assistant](https://github.com/itsGarrin/fantasy-football-assistant)
+### 🏈 [Fantasy Football LLM Assistant](https://github.com/itsGarrin/fantasy-football-llm-assistant)
 A personalized **fantasy football assistant** that provides data-driven insights based on player statistics, game trends, and community sentiment analysis from **Reddit**. This project uses **Natural Language Processing (NLP)** to analyze discussions and sentiment around players, offering real-time recommendations and advice to fantasy football enthusiasts.
 
 - **Tech Used**: Python, NLP, APIs, Reddit Scraping, Jupyter Notebook  
